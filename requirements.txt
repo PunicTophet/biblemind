@@ -1,2 +1,5 @@
 streamlit
-openai
+anthropic
+pinecone
+azure
+sentence_transformers
